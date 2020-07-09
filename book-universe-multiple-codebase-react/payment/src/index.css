@@ -1,0 +1,61 @@
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+
+.button {
+  font-size: 20px;
+  padding: 0px !important;
+  border: 2px solid transparent;
+  color: whitesmoke;
+  padding-bottom: 4px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all 0.15s;
+  float: right;
+  margin: 0px !;
+  height: 40px !important;
+  width: 99% !important;
+}
+
+.textbox {
+  font-size: 20px;
+  padding: 2px;
+  width: 62%;
+  text-align: center;
+  margin-bottom: 20px;
+  height: 45px;
+}
+
+.text {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.pay {
+  margin-top: 70px;
+}
+
+.button:hover,
+.button:focus {
+  border: 2px solid rgba(112, 76, 182, 0.4);
+}
+
+.button:active {
+  background-color: rgba(112, 76, 182, 0.2);
+}
+
+.congratulations {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.reverse-slash {
+  font-size: 55px;
+}

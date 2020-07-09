@@ -1,0 +1,57 @@
+const React = require('react-native');
+
+const {StyleSheet} = React;
+
+export default {
+  eventContainer: {
+    backgroundColor: 'white',
+    marginBottom: 10,
+    borderRadius: 5,
+    opacity: 0.9,
+    padding: 10,
+    width: '100%',
+  },
+  rowView: {flex: 1, flexDirection: 'row'},
+  columnView: {flex: 1, flexDirection: 'column'},
+  eventImage: {width: 120, height: 160, marginBottom: 10},
+  boxFont14Text: {color: '#434343', fontSize: 14, fontWeight: 'bold'},
+  boxFont12Text: {color: '#434343', fontSize: 12, fontWeight: 'bold'},
+  boxFont22Text: {color: '#434343', fontSize: 22, fontWeight: 'bold'},
+  registerButton: {borderRadius: 10, padding: 15},
+  boxTextView: {flex: 2, flexDirection: 'column', paddingLeft: 10},
+  miniImage: {width: 40, height: 40, marginBottom: 10, marginRight: 5},
+  coverImage: {height: 160, marginBottom: 10},
+  coverTextView: {position: 'absolute', padding: 15},
+  coverFont14Text: {color: 'white', fontSize: 14, fontWeight: 'bold'},
+  coverFont22Text: {color: 'white', fontSize: 22, fontWeight: 'bold'},
+  coverFont12Text: {color: 'gray', fontSize: 12},
+  registeredView: {position: 'absolute', right: 20, top: 140, width: '30%'},
+  registeredText: {
+    color: 'white',
+    backgroundColor: '#23e4b7',
+    fontSize: 16,
+    fontWeight: 'bold',
+    borderRadius: 15,
+    height: 45,
+    textAlign: 'center',
+    padding: 10,
+  },
+  miniImagePositioning: {
+    flex: 1,
+    flexDirection: 'column',
+    position: 'absolute',
+    top: 140,
+    paddingHorizontal: 10,
+  },
+  paddingAndMarginTop: {padding: 5, marginTop: 10},
+  title: {color: '#434343', fontSize: 18, fontWeight: 'bold'},
+  scheduleTime: {color: '#17bd96', fontSize: 14, fontWeight: 'bold'},
+  scheduleDetails: {color: '#434343', fontSize: 14, paddingLeft: 5},
+  speakersPosition: {
+    color: '#17bd96',
+    fontSize: 12,
+    fontWeight: 'bold',
+    paddingLeft: 5,
+  },
+  speakersInfo: {color: '#434343', fontSize: 12, paddingLeft: 5},
+};

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Kubernetes Keys",
+        "place": "İstanbul",
+        "description": "Kubernetes Key Concepts ",
+        "date": "July 12, 2020",
+        "time": "6:00 PM to 11:00 PM",
+        "publisher": "John Doe",
+        "position": "DevOps",
+        "company": "Eteration",
+        "information":"I'm John Doe. I have been working as a DevOps in Eteration for 5 years.",
+        "eventImage":"https://images.unsplash.com/photo-1503792243040-7ce7f5f06085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1315&q=80",
+        "image":"https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "subject": [
+            {"time":"06:00","title":"Secure DevOps"},
+            {"time":"06:10","title":"Basic Principles and Practices"},
+            {"time":"06:15","title":"Cloud Provides: Azure Devops, Kubernetes"},
+            {"time":"06:20","title":"Pipelines"},
+            {"time":"06:25","title":"Safe DevOps 101: Vulnerability scans, tests and integrated tools"},
+            {"time":"06:30","title":"Demo and application example"}           
+        ]
+    },
+    {
+        "name": "Clean Code",
+        "place": "İstanbul",
+        "description": "Clean code for all languages",
+        "date": "July 21, 2020",
+        "time": "8:00 PM to 10:00 PM",
+        "publisher": "Jane Doe",
+        "position": "Backend Developer",
+        "company": "Eteration",
+        "information":"I'm Jane Doe. I've been working as a software developer in Eteration for 3 years 4 months.",
+        "eventImage":"https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "image":"https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "subject": [
+            {"time":"08:00","title":"Secure DevOps"},
+            {"time":"08:10","title":"Basic Principles and Practices"},
+            {"time":"08:15","title":"Cloud Provides: Azure Devops, Kubernetes"},
+            {"time":"08:20","title":"Pipelines"},
+            {"time":"08:25","title":"Safe DevOps 101: Vulnerability scans, tests and integrated tools"},
+            {"time":"08:30","title":"Demo and application example"}           
+        ]
+    },
+    {
+        "name": "Redux Advantages ",
+        "place": "İstanbul",
+        "description": "Redux advantages for developers",
+        "date": "August 11, 2020",
+        "time": "7:00 PM to 10:00 PM",
+        "publisher": "Jean Dupont",
+        "position": "Software Developer",
+        "company": "Eteration",
+        "information":"I'm Jean Dupont. I have been working as a software developer in Eteration for a year.",
+        "eventImage":"https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "image":"https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=644&q=80",
+        "subject": [
+            {"time":"07:00","title":"Secure DevOps"},
+            {"time":"07:10","title":"Basic Principles and Practices"},
+            {"time":"07:15","title":"Cloud Provides: Azure Devops, Kubernetes"},
+            {"time":"07:20","title":"Pipelines"},
+            {"time":"07:25","title":"Safe DevOps 101: Vulnerability scans, tests and integrated tools"},
+            {"time":"07:30","title":"Demo and application example"}           
+        ]
+    }
+]

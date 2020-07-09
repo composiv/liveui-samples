@@ -1,0 +1,53 @@
+{
+  "name": "book-universe-single-codebase-react",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@composiv/liveui-core": "0.1.0",
+    "@composiv/liveui-react": "0.1.0",
+    "@reduxjs/toolkit": "^1.3.6",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "bootstrap": "^4.5.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start-live": "liveui start-live"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@composiv/liveui": "0.1.0",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "html-loader": "^1.1.0",
+    "image-webpack-loader": "^6.0.0",
+    "style-loader": "^1.2.1",
+    "svg-url-loader": "^5.0.0",
+    "url-loader": "^4.1.0"
+  }
+}

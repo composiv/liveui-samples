@@ -1,0 +1,52 @@
+{
+    "productList": [
+        {
+            "id":1,
+            "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7841/9781784163068.jpg",
+            "name": "Hello World",
+            "price": 82,
+            "publisher":"Transworld Publishers Ltd",
+            "author":"Hannah Fry"
+        },
+        {
+            "id":2,
+            "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7808/9781780897158.jpg",
+            "name": "Hello, is this planet Earth?",
+            "price": 175,
+            "publisher":"Cornerstone",
+            "author":"Tim Peake"
+        },
+        {
+            "id":3,
+            "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5903/9781590302255.jpg",
+            "name": "The Art Of War",
+            "price": 55,
+            "publisher":"Shambhala Publications Inc",
+            "author":"Sun Tzu , Translated by  Thomas Cleary"
+        },
+        {
+            "id":4,
+            "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/7153/9780715324530.jpg",
+            "name": "Leonardo da Vinci : The Complete Works",
+            "price": 100,
+            "publisher":"David & Charles",
+            "author":"Leonardo da Vinci"
+        },
+        {
+            "id":5,
+            "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7433/9781743311325.jpg",
+            "name": "Biggest Estate on Earth ",
+            "price": 210,
+            "publisher":"Allen & Unwin",
+            "author":"Bill Gammage"
+        },
+        {
+            "id":6,
+            "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4516/9781451648539.jpg",
+            "name": "Steve Jobs",
+            "price": 150,
+            "publisher":"Simon & Schuster",
+            "author":"Walter Isaacson"
+        }
+    ]
+}
