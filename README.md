@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://liveui.composiv.ai/img/liveui-readme-banner.jpg" alt="LiveUI Banner" />
-</p>
-
 # liveui-samples
+
+<img src="https://liveui.composiv.ai/img/liveui-readme-banner.jpg" alt="LiveUI Banner" align="center" />
 
 This repository contains a set of samples for the LiveUI.
 
