@@ -18,7 +18,7 @@
     "react-native": "0.62.2"
   },
   "devDependencies": {
-    "@composiv/liveui": "0.1.0",
+    "@eclipse-muto/liveui": "0.1.0",
     "@babel/core": "^7.9.6",
     "@babel/runtime": "^7.9.6",
     "@react-native-community/eslint-config": "^1.1.0",

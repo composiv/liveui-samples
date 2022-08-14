@@ -6,7 +6,7 @@ This application is an implementation of [Single Codebase for React](https://liv
 
 Clone the samples repo using the following command:
 ```command
-git clone https://github.com/composiv/liveui-samples
+git clone https://github.com/eclipse-muto/liveui-samples
 ```
 
 Move to the appropriate directory: 
@@ -28,7 +28,7 @@ Start serving remote components:
 ```
 npm run start-live
 ```
-> This command was defined on the `scripts/package.json` and runs `@composiv/liveui start-live` command. For more information about LiveUI CLI commands, please check [it's documentation](https://liveui.composiv.ai/docs/liveui).
+> This command was defined on the `scripts/package.json` and runs `@eclipse-muto/liveui start-live` command. For more information about LiveUI CLI commands, please check [it's documentation](https://liveui.composiv.ai/docs/liveui).
 
 ## License
 

@@ -8,7 +8,7 @@ This example consists of 4 applications. The host application which called `book
 
 Clone the samples repo using the following command:
 ```command
-git clone https://github.com/composiv/liveui-samples
+git clone https://github.com/eclipse-muto/liveui-samples
 ```
 
 ## Starting the Host Application - book-universe

@@ -10,8 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@composiv/liveui-core": "0.1.0",
-    "@composiv/liveui-react-native": "0.1.1",
+    "@eclipse-muto/liveui-core": "0.1.0",
+    "@eclipse-muto/liveui-react-native": "0.1.1",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.3.1",
     "@react-navigation/stack": "^5.3.4",

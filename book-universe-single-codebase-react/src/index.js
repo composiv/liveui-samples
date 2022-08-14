@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
-import liveui from '@composiv/liveui-core';
+import liveui from '@eclipse-muto/liveui-core';
 
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';

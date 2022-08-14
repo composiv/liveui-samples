@@ -13,7 +13,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/FontAwesome';
-import RemoteComponent from '@composiv/liveui-react-native';
+import RemoteComponent from '@eclipse-muto/liveui-react-native';
 
 import All from './containers/All/All';
 import Work from './containers/Work/Work';

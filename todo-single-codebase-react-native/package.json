@@ -10,8 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@composiv/liveui-core": "0.1.0",
-    "@composiv/liveui-react-native": "0.1.1",
+    "@eclipse-muto/liveui-core": "0.1.0",
+    "@eclipse-muto/liveui-react-native": "0.1.1",
     "@react-native-community/async-storage": "^1.11.0",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/picker": "^1.6.1",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "@babel/core": "7.9.6",
     "@babel/runtime": "7.9.6",
-    "@composiv/liveui": "0.1.0",
+    "@eclipse-muto/liveui": "0.1.0",
     "@react-native-community/eslint-config": "0.0.5",
     "babel-loader": "^8.1.0",
     "file-loader": "^6.0.0",

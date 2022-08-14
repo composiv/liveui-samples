@@ -1,6 +1,6 @@
 import React from 'react';
 import db from '../../db.json';
-import RemoteComponent from '@composiv/liveui-react';
+import RemoteComponent from '@eclipse-muto/liveui-react';
 
 const ProductCard = props => (
     <RemoteComponent name="productCard" {...props} />

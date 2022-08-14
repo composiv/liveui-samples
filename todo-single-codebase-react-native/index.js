@@ -3,7 +3,7 @@
  */
 
 import {AppRegistry} from 'react-native';
-import liveui from '@composiv/liveui-core';
+import liveui from '@eclipse-muto/liveui-core';
 import App from './App';
 import {name as appName} from './app.json';
 

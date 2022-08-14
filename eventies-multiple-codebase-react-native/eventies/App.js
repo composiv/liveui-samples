@@ -2,7 +2,7 @@ import * as React from 'react';
 import {View, Text, ScrollView, SafeAreaView, StyleSheet} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
-import RemoteComponent from '@composiv/liveui-react-native';
+import RemoteComponent from '@eclipse-muto/liveui-react-native';
 import data from './data.json';
 
 const LoginComponent = props => <RemoteComponent name="login" {...props} />;

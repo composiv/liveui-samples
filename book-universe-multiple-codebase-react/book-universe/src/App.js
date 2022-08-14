@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { Header } from './components/Header';
 import {Footer} from './components/Footer';
 
-import RemoteComponent from '@composiv/liveui-react';
+import RemoteComponent from '@eclipse-muto/liveui-react';
 
 const Cart = props => (
     <RemoteComponent name="cart" {...props} />

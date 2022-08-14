@@ -8,7 +8,7 @@ This example consists of 3 applications. The host application which called `even
 
 Clone the samples repo using the following command:
 ```command
-git clone https://github.com/composiv/samples
+git clone https://github.com/eclipse-muto/samples
 ```
 
 ## Starting the Host Application - eventies
@@ -68,7 +68,7 @@ To run remote component only:
 ```command
 npm run start-live
 ```
-> This command was defined on the `scripts/package.json` and runs `@composiv/liveui start-native` command. For more information about LiveUI CLI commands, please check [it's documentation](https://liveui.composiv.ai/docs/liveui).
+> This command was defined on the `scripts/package.json` and runs `@eclipse-muto/liveui start-native` command. For more information about LiveUI CLI commands, please check [it's documentation](https://liveui.composiv.ai/docs/liveui).
 
 ## eventies-components
 
@@ -99,7 +99,7 @@ To run remote component only:
 ```command
 npm run start-live
 ```
-> This command was defined on the `scripts/package.json` and runs `@composiv/liveui start-native` command. For more information about LiveUI CLI commands, please check [it's documentation](https://liveui.composiv.ai/docs/liveui).
+> This command was defined on the `scripts/package.json` and runs `@eclipse-muto/liveui start-native` command. For more information about LiveUI CLI commands, please check [it's documentation](https://liveui.composiv.ai/docs/liveui).
 
 ## License
 
